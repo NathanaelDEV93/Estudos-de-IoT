@@ -1,0 +1,26 @@
+node --version
+
+npm --version
+
+npm init -y
+
+code .
+
+npm run test
+
+npm start
+
+node index.js
+
+npm i moment
+
+npm install express
+
+npm i express body-parser aedes cors
+
+node app
+
+http://localhost:3000
+
+http://localhost:3000/users
+
