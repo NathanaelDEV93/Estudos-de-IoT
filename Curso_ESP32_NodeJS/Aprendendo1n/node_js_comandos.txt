@@ -1,0 +1,11 @@
+npm init -y
+
+code .
+
+npm run test
+
+npm start
+
+node index.js
+
+npm i moment
